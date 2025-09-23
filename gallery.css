@@ -194,9 +194,13 @@ p {
     text-align: center;
 }
 
-.gallery .grid a img {
+.gallery .grid a {
     width: 80%;
     margin: 0 auto;
+}
+
+.gallery .grid a img {
+    width: 100%;
 }
 
 .note {
@@ -416,5 +420,6 @@ footer .icon-container .icon:hover {
         height: 14px;
     }
 }
+
 
 
