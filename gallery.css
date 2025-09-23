@@ -143,7 +143,7 @@ main {
     justify-content: space-between;
 }
 
-.hero .highlight img {
+.hero .highlight a img {
     height: 100%;
     width: 48%;
 }
@@ -189,7 +189,7 @@ p {
     text-align: center;
 }
 
-.gallery .grid img {
+.gallery .grid a img {
     width: 80%;
     margin: 0 auto;
 }
@@ -345,7 +345,7 @@ footer .icon-container .icon:hover {
         width: 48%;
     }
 
-    .gallery .grid img {
+    .gallery .grid a img {
         width: 96%;
     }
 
@@ -411,3 +411,4 @@ footer .icon-container .icon:hover {
         height: 14px;
     }
 }
+
