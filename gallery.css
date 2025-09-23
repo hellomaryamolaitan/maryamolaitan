@@ -143,9 +143,14 @@ main {
     justify-content: space-between;
 }
 
+.hero .highlight a {
+    width: 48%;
+    height: 100%;
+}
+
 .hero .highlight a img {
     height: 100%;
-    width: 48%;
+    width: 100%;
 }
 
 p {
@@ -411,4 +416,5 @@ footer .icon-container .icon:hover {
         height: 14px;
     }
 }
+
 
