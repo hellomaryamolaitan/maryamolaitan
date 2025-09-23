@@ -354,8 +354,12 @@ footer .icon-container .icon:hover {
         width: 48%;
     }
 
-    .gallery .grid a img {
+    .gallery .grid a {
         width: 96%;
+    }
+
+     .gallery .grid a img {
+        width: 100%;
     }
 
     .grid .description p a {
@@ -420,6 +424,7 @@ footer .icon-container .icon:hover {
         height: 14px;
     }
 }
+
 
 
 
