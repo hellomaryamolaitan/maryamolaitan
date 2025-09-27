@@ -4,15 +4,13 @@
     <loc>https://maryamolaitan.vercel.app/</loc>
   </url>
   <url>
-    <loc>https://maryamolaitan.vercel.app/about</loc>
+    <loc>https://maryamolaitan.vercel.app/about.html</loc>
   </url>
   <url>
-    <loc>https://maryamolaitan.vercel.app/gallery</loc>
+    <loc>https://maryamolaitan.vercel.app/gallery.html</loc>
   </url>
   <url>
     <loc>https://maryamolaitan.vercel.app/shop</loc>
   </url>
-  <url>
-    <loc>https://maryamolaitan.vercel.app/contact</loc>
-  </url>
 </urlset>
+
