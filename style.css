@@ -229,7 +229,7 @@ p {
 .btn {
     text-decoration: none;
     text-align: center; 
-    color: #d87093;
+    color: #fff;
     background-color: #000;
     width: 16%;
     margin: 0 auto;
@@ -488,4 +488,5 @@ footer .icon-container .icon:hover {
         width: 14px;
         height: 14px;
     }
+
 }
